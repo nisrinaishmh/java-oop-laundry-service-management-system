@@ -2,6 +2,7 @@
 
 Java OOP Laundry Service is a simple console-based application built using Java to simulate a laundry service system.  
 This project was created to demonstrate the implementation of Object-Oriented Programming (OOP) concepts in Java.
+<img align="right" width="500" src="media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VuaGdkcnA2c2xxbWFmajRia2Y1cmtvb3ExbjF6dHpmamo1b3RmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSHgcsUNnFRE6knyly/giphy.gif" />
 
 ## 🚀 Features
 - Laundry order creation
